@@ -11,11 +11,14 @@
 34、[侧滑栏]
 
 <h2 id = "1">AutoLayout 自动布局</h2>
-1.[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry ) 怎么不能进行注释呢？<br/>  
-2.[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)<br/> 
-![](http://code.cocoachina.com/view/129577)代码约束
-![](Masonry-master)
-![](http://code.cocoachina.com/view/129741)
+1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry ) Masonry 的一个简单的应用demo<br/>  
+
+2、[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) 国人写的约束 <br/>  
+
+3、[VFL语言实现AutoLayout,屏幕适配](http://code.cocoachina.com/view/129577)VFL语言实现AutoLayout,屏幕适配 <br/>
+
+4、[WHC_AutoLayoutKit 2.0使用最简单功能最强大的autolayout开源库](http://code.cocoachina.com/view/129741)<br/>
+
 ![](http://code.cocoachina.com/view/129794)
 ![]( http://code.cocoachina.com/view/130235 SDAutoLayout )
 ![](http://www.w2bc.com/article/118726  https://github.com/youngsoft/MyLinearLayout MyFloatLayout)
