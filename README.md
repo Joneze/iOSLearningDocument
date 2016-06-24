@@ -19,8 +19,10 @@
 
 4、[WHC_AutoLayoutKit 2.0使用最简单功能最强大的autolayout开源库](http://code.cocoachina.com/view/129741)<br/>
 
-![](http://code.cocoachina.com/view/129794)
-![]( http://code.cocoachina.com/view/130235 SDAutoLayout )
+5、[微信朋友圈（评论列表+文本收放）](http://code.cocoachina.com/view/129794)    微信朋友圈（评论列表+文本收放）  
+
+6、[]( http://code.cocoachina.com/view/130235 SDAutoLayout )  
+
 ![](http://www.w2bc.com/article/118726  https://github.com/youngsoft/MyLinearLayout MyFloatLayout)
 
 2、[iOS9适配]
