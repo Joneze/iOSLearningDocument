@@ -10,26 +10,21 @@
 28、[轮播图] 29、[pickerView 时间选择器] 30、[collectionView] 31、[小红点管理] 32、[tabbar ] 33、[消息列表] 
 34、[侧滑栏]
 
-<h2 id = "1">AutoLayout 自动布局</h2>
+<h3 id = "1">AutoLayout 自动布局</h3>
 1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry )    Masonry 的一个简单的应用demo  
-2、[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)   国人写的约束  
-
+2、[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)   国人写的约束   [博客](http://www.w2bc.com/article/118726 )
 3、[VFL语言实现AutoLayout,屏幕适配](http://code.cocoachina.com/view/129577)    VFL语言实现AutoLayout,屏幕适配  
-
 4、[使用最简单功能最强大的autolayout开源库](http://code.cocoachina.com/view/129741)    WHC_AutoLayoutKit 2.0使用最简单功能最强大的autolayout开源库
-
 5、[微信朋友圈（评论列表+文本收放）](http://code.cocoachina.com/view/129794)    微信朋友圈（评论列表+文本收放）自动布局的应用  
-
 6、[朋友圈（流畅优化版 SDAutoLayout]( http://code.cocoachina.com/view/130235 SDAutoLayout )    朋友圈（流畅优化版 SDAutoLayout  
 
-![](http://www.w2bc.com/article/118726  https://github.com/youngsoft/MyLinearLayout MyFloatLayout)
+<h3 id = "2">iOS9适配</h3>
+1、[iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)    iOS9适配
 
-2、[iOS9适配]
-![](https://github.com/ChenYilong/iOS9AdaptationTips)
 
-3、[第三方sdk微信、微博、QQ接口]
-![](https://github.com/cloudorz/Diplomat )
-![]( https://github.com/DangerousDON/ShareSDKEasyDemo  )
+<h3 id = "3">第三方sdk微信、微博、QQ接口</h3>
+1、[整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplomat 接口。](https://github.com/cloudorz/Diplomat )    统一第三方 SDKs 的登录和分享接口。目前支持微信、 QQ 、微博。  
+2、[ShareSDK的简易使用demo]( https://github.com/DangerousDON/ShareSDKEasyDemo)   ShareSDK的简易使用demo，适合初次学习使用ShareSDK的同学，实现了分享和授权登陆的功能。
 
 4、[各种模仿应用] 
 ![](http://code.cocoachina.com/view/128856 最美应用) 
