@@ -2,7 +2,7 @@
 
 
 ####目录
-*[AutoLayout 自动布局](#1)  2、[iOS9适配]  3、[第三方sdk微信、微博、QQ接口] 4、[各种模仿应用]
+*[AutoLayout 自动布局](#1)  2、[iOS9适配](#2)  3、[第三方sdk微信、微博、QQ接口](#3) 4、[各种模仿应用](#4)
 5、[时间选择器]  6、[视频播放] 7、[图片浏览器]  8、[图片裁切]  9、[分段选择 Segment]
 10、[表格 tableview]  11、[弹窗]  12、[导航栏]  13、[版本检测更新]  14、[弹窗 AlterView]
 15、[画线] 16、[统计图] 17、[正则]  18、[存储数据  数据库]  19、[动画]  20、[AFN 3.0] 21、[视频播放]
@@ -26,13 +26,13 @@
 1、[整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplomat 接口。](https://github.com/cloudorz/Diplomat )    统一第三方 SDKs 的登录和分享接口。目前支持微信、 QQ 、微博。  
 2、[ShareSDK的简易使用demo]( https://github.com/DangerousDON/ShareSDKEasyDemo)   ShareSDK的简易使用demo，适合初次学习使用ShareSDK的同学，实现了分享和授权登陆的功能。
 
-4、[各种模仿应用] 
-![](http://code.cocoachina.com/view/128856 最美应用) 
-![](http://www.oschina.net/p/yocelsius) 天气
-![](https://github.com/jakciehoo/MomentsPhoto)丁丁美图, 源码
-![](https://github.com/CatchChat/Yep) Yep的源码
-![](https://github.com/guojiubo/PlainReader)简阅, 源码
-![](https://github.com/YouXianMing/YoCelsius) 动画
+
+<h3 id = "4">各种模仿应用</h3>
+1、[最美应用](http://code.cocoachina.com/view/128856)  
+2、[精美天气app](https://github.com/YouXianMing/YoCelsius) 此乃极客学院讲师所写，他的博客都值得一看   
+3、[丁丁美图, 源码](https://github.com/jakciehoo/MomentsPhoto)  
+4、[Yep的源码](https://github.com/CatchChat/Yep)   
+5、[简阅, 源码](https://github.com/guojiubo/PlainReader)
 
 5、[时间选择器]
 ![](http://code.cocoachina.com/view/129585)
