@@ -38,7 +38,7 @@
 33、[消息列表] 
 34、[侧滑栏]
 
-<h3 id = "1">AutoLayout 自动布局</h3>
+<h3 id = "1">一、AutoLayout 自动布局</h3>
 1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry )    Masonry 的一个简单的应用demo  
 2、[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)   国人写的约束   [博客](http://www.w2bc.com/article/118726 )  
 3、[VFL语言实现AutoLayout,屏幕适配](http://code.cocoachina.com/view/129577)    VFL语言实现AutoLayout,屏幕适配  
@@ -46,16 +46,16 @@
 5、[微信朋友圈（评论列表+文本收放）](http://code.cocoachina.com/view/129794)    微信朋友圈（评论列表+文本收放）自动布局的应用  
 6、[朋友圈（流畅优化版 SDAutoLayout)]( http://code.cocoachina.com/view/130235)    朋友圈（流畅优化版 SDAutoLayout  )
 
-<h3 id = "2">iOS9适配</h3>
+<h3 id = "2">二、iOS9适配</h3>
 1、[iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)    iOS9适配
 
 
-<h3 id = "3">第三方sdk微信、微博、QQ接口</h3>
+<h3 id = "3">三、第三方sdk微信、微博、QQ接口</h3>
 1、[整合第三方 SDK 微信、微博、 QQ 等为统一的 Diplomat 接口。](https://github.com/cloudorz/Diplomat )    统一第三方 SDKs 的登录和分享接口。目前支持微信、 QQ 、微博。  
 2、[ShareSDK的简易使用demo]( https://github.com/DangerousDON/ShareSDKEasyDemo)   ShareSDK的简易使用demo，适合初次学习使用ShareSDK的同学，实现了分享和授权登陆的功能。
 
 
-<h3 id = "4">各种模仿应用</h3>
+<h3 id = "4">四、各种模仿应用</h3>
 1、[最美应用](http://code.cocoachina.com/view/128856)  
 2、[精美天气app](https://github.com/YouXianMing/YoCelsius) 此乃极客学院讲师所写，他的博客都值得一看   
 3、[丁丁美图, 源码](https://github.com/jakciehoo/MomentsPhoto)  
@@ -63,8 +63,8 @@
 5、[简阅, 源码](https://github.com/guojiubo/PlainReader)
 
 
-<h4 id = "5">时间选择器</h4>
-![](http://code.cocoachina.com/view/129585)
+<h4 id = "5">五、时间选择器</h4>
+[时间选择器](https://github.com/HZTonyAng/YTDataSelectDemo)  定位到当前时间的自定义时间选择器
 
 6、[视频播放]
 ![](http://code.cocoachina.com/view/129475)
