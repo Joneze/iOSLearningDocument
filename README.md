@@ -11,17 +11,16 @@
 34、[侧滑栏]
 
 <h2 id = "1">AutoLayout 自动布局</h2>
-1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry ) Masonry 的一个简单的应用demo<br/>  
+1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry )    Masonry 的一个简单的应用demo  
+2、[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)   国人写的约束  
 
-2、[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout) 国人写的约束 <br/>  
+3、[VFL语言实现AutoLayout,屏幕适配](http://code.cocoachina.com/view/129577)    VFL语言实现AutoLayout,屏幕适配  
 
-3、[VFL语言实现AutoLayout,屏幕适配](http://code.cocoachina.com/view/129577)VFL语言实现AutoLayout,屏幕适配 <br/>
+4、[使用最简单功能最强大的autolayout开源库](http://code.cocoachina.com/view/129741)    WHC_AutoLayoutKit 2.0使用最简单功能最强大的autolayout开源库
 
-4、[WHC_AutoLayoutKit 2.0使用最简单功能最强大的autolayout开源库](http://code.cocoachina.com/view/129741)<br/>
+5、[微信朋友圈（评论列表+文本收放）](http://code.cocoachina.com/view/129794)    微信朋友圈（评论列表+文本收放）自动布局的应用  
 
-5、[微信朋友圈（评论列表+文本收放）](http://code.cocoachina.com/view/129794)    微信朋友圈（评论列表+文本收放）  
-
-6、[]( http://code.cocoachina.com/view/130235 SDAutoLayout )  
+6、[朋友圈（流畅优化版 SDAutoLayout]( http://code.cocoachina.com/view/130235 SDAutoLayout )    朋友圈（流畅优化版 SDAutoLayout  
 
 ![](http://www.w2bc.com/article/118726  https://github.com/youngsoft/MyLinearLayout MyFloatLayout)
 
