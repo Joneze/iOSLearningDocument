@@ -1,9 +1,8 @@
 # iOSLearningDocument
 
-![]()
 
-目录
-1、[AutoLayout 自动布局]  2、[iOS9适配]  3、[第三方sdk微信、微博、QQ接口] 4、[各种模仿应用]
+####目录
+*[AutoLayout 自动布局](#1)  2、[iOS9适配]  3、[第三方sdk微信、微博、QQ接口] 4、[各种模仿应用]
 5、[时间选择器]  6、[视频播放] 7、[图片浏览器]  8、[图片裁切]  9、[分段选择 Segment]
 10、[表格 tableview]  11、[弹窗]  12、[导航栏]  13、[版本检测更新]  14、[弹窗 AlterView]
 15、[画线] 16、[统计图] 17、[正则]  18、[存储数据  数据库]  19、[动画]  20、[AFN 3.0] 21、[视频播放]
@@ -11,7 +10,7 @@
 28、[轮播图] 29、[pickerView 时间选择器] 30、[collectionView] 31、[小红点管理] 32、[tabbar ] 33、[消息列表] 
 34、[侧滑栏]
 
-### [AutoLayout 自动布局]
+<h2 id = "1">AutoLayout 自动布局</h2>
 1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry "悬停显示") 
 2、[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)
 ![](http://code.cocoachina.com/view/129577)代码约束
