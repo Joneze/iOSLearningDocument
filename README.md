@@ -12,8 +12,8 @@
 34、[侧滑栏]
 
 ### [AutoLayout 自动布局]
-[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry "悬停显示") 
-![](https://github.com/youngsoft/MyLinearLayout)
+1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry "悬停显示") 
+2、[MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)
 ![](http://code.cocoachina.com/view/129577)代码约束
 ![](Masonry-master)
 ![](http://code.cocoachina.com/view/129741)
