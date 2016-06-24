@@ -12,7 +12,7 @@
 34、[侧滑栏]
 
 1、[AutoLayout 自动布局] 
-![](https://github.com/zekunyan/AutolayoutExampleWithMasonry)
+[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry)
 ![](https://github.com/youngsoft/MyLinearLayout)
 ![](http://code.cocoachina.com/view/129577)代码约束
 ![](Masonry-master)
