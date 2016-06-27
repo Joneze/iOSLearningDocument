@@ -48,7 +48,7 @@
 
 
 <h4 id = "5">五、时间选择器</h4>
-1、[时间选择器](https://github.com/HZTonyAng/YTDataSelectDemo)  定位到当前时间的自定义时间选择器
+1、[时间选择器](https://github.com/HZTonyAng/YTDataSelectDemo)  定位到当前时间的自定义时间选择器  
 2、[UsefulPickerView]( https://github.com/jasnig/UsefulPickerView ) swift版本
 
 <h4 id = "6">六、视频播放</h4>
@@ -68,8 +68,8 @@
 8、[PYPhotosView](https://github.com/iphone5solo/PYPhotosView#pyphotoview) 国人写的一款非常优秀的 **图片浏览器**，支持线型布局，流水布局  
 9、[高仿新浪微博的图片浏览器](http://code.cocoachina.com/view/129193)高仿新浪微博的图片浏览器，极佳的编写方式，易扩展，低耦合  
 10、[KDCycleBannerView](https://github.com/kingiol/KDCycleBannerView) 无限滚动图片，轮播图  
-11、[模仿天猫app 相册功能](http://code.cocoachina.com/view/126364) 包含实时获取摄像头信息  
-12、[图片裁切]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放
+11、[模仿天猫app 相册功能](http://code.cocoachina.com/view/126364) 包含实时获取摄像头信息    
+12、[图片裁切]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放  
 13、[iCarousel]( https://github.com/nicklockwood/iCarousel ) 轮播图效果很棒，曾经使用过这个  
 14、[ZYBannerView](https://github.com/zzyspace/ZYBannerView/) 强大的轮播图效果  
 15、[中间放大的轮播图](http://blog.csdn.net/jx1152300755/article/details/51086322 ) 中间cell 放大 基于collectionView
@@ -120,9 +120,9 @@
         雪花、刮奖、图片切换、sd加载图片、瀑布流、lable混色
         翻页动画、果冻特效、加载网络数据、震动、scrollview滑动特效
         cell点击展开动画、textKit图文混排 }  
-10、[GitHub前50名的Objective-C动画相关库](http://www.cocoachina.com/ios/20160602/16574.html) GitHub前50名的Objective-C动画相关库
-11、[进度条]( https://github.com/ninjinkun/NJKWebViewProgress ) 网易使用--webview的进度条
-12、[进度条 M13ProgressSuite]( https://github.com/Marxon13/M13ProgressSuite ) 各种进度
+10、[GitHub前50名的Objective-C动画相关库](http://www.cocoachina.com/ios/20160602/16574.html) GitHub前50名的Objective-C动画相关库  
+11、[进度条]( https://github.com/ninjinkun/NJKWebViewProgress ) 网易使用--webview的进度条  
+12、[进度条 M13ProgressSuite]( https://github.com/Marxon13/M13ProgressSuite ) 各种进度  
 
 <h4 id = "13">十三、正则</h4>
 1、[手机，邮箱，身份证号码验证](http://code.cocoachina.com/view/129735) 电话号码 身份证 邮箱验证
@@ -130,7 +130,7 @@
 
 <h4 id = "14">十四、存储数据  数据库</h4>
 1、[YTKKeyValueStore](https://github.com/yuantiku/YTKKeyValueStore)基于FMDB再次封装，简单易用。来自猿题库  
-2、[fmdb](https://github.com/ccgus/fmdb)这个不用介绍了吧
+2、[fmdb](https://github.com/ccgus/fmdb)这个不用介绍了吧  
 3、[JRDB](https://github.com/scubers/JRDB)又是一个基于FMDB的再次封装库、iOS对FMDB的超好用封装 [技术文章](http://www.cocoachina.com/ios/20160531/16507.html)支持Objective-C 和 Swift。  
 
 
