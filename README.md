@@ -9,31 +9,18 @@
 5、[时间选择器](#5)    
 6、[视频播放](#6)   
 7、[图片浏览器、轮播图](#7)     
-8、[分段选择 Segment](#8)
+8、[分段选择 Segment](#8)  
 9、[表格 tableview](#9)    
-11、[弹窗]    
-12、[导航栏]    
-13、[版本检测更新]
-15、[画线]   
-16、[统计图]   
-17、[正则]    
-18、[存储数据  数据库]    
-19、[动画]    
-20、[AFN 3.0]  
-22、[音乐播放]    
-22、[Socket]   
-23、[强大的 label]   
-24、[下载]   
-25、[NSDate]   
-26、[浏览器]   
-27、[进度条]
-28、[轮播图]   
-29、[pickerView 时间选择器]   
-30、[collectionView]   
-31、[小红点管理]   
-32、[tabbar ]   
-33、[消息列表] 
-34、[侧滑栏]
+10、[弹窗](#10)    
+11、[优秀的功能模块集合](#11)   
+12、[动画、贝塞尔曲线、animation](#12)    
+13、[正则](#13)    
+14、[存储数据  数据库](#14)    
+15、[网络](#15)    
+16、[音乐播放](#16)    
+17、[Socket](#17)   
+18、[强大的 label](#18)   
+19、[NSDate](#19)
 
 <h3 id = "1">一、AutoLayout 自动布局</h3>
 1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry ) Masonry 的一个简单的应用demo  
@@ -107,11 +94,15 @@
 
 <h4 id = "10">十、弹窗</h4>
 1、[MMPopupView](https://github.com/adad184/MMPopupView) 国人写的弹窗，推荐。相应的  [博客教程](http://adad184.com/2015/09/08/opensource-mmpopupview/)   
-2、[HySideScrollingImagePicker](https://github.com/wwdc14/HySideScrollingImagePicker)模仿QQ选择照片
+2、[HySideScrollingImagePicker](https://github.com/wwdc14/HySideScrollingImagePicker)模仿QQ选择照片  
 3、[Harpy](https://github.com/ArtSabintsev/Harpy) 可自定义弹窗、版本检测更新  
 
-<h4 id = "11">十一、导航栏</h4>
-1、[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) 让导航栏具有全屏右滑滑动返回功能   
+<h4 id = "11">十一、优秀的功能模块集合</h4>
+1、[小红点管理]( http://code.cocoachina.com/view/131175 ) 类似微信新消息小红点，应用场景IM    
+2、[YPTabBarController](https://github.com/yuping1989/YPTabBarController) tabbar 一款可高度自定义的TabBarController，几乎可以自定义所有想自定义的元素。  
+3、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController) 一款可集成于tableview的评论回复UI功能强大  
+4、[MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) 一款优秀的侧滑栏 
+5、[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) 让导航栏具有全屏右滑滑动返回功能  
 
 
 <h4 id = "12">十二、动画、贝塞尔曲线、animation</h4>
@@ -130,7 +121,7 @@
         翻页动画、果冻特效、加载网络数据、震动、scrollview滑动特效
         cell点击展开动画、textKit图文混排 }  
 10、[GitHub前50名的Objective-C动画相关库](http://www.cocoachina.com/ios/20160602/16574.html) GitHub前50名的Objective-C动画相关库
-11、[进度条]( https://github.com/ninjinkun/NJKWebViewProgress ) 网易使用
+11、[进度条]( https://github.com/ninjinkun/NJKWebViewProgress ) 网易使用--webview的进度条
 12、[进度条 M13ProgressSuite]( https://github.com/Marxon13/M13ProgressSuite ) 各种进度
 
 <h4 id = "13">十三、正则</h4>
@@ -144,59 +135,50 @@
 
 
 
-<h4 id = "15">十五、网络 AFN 3.0</h4>
+<h4 id = "15">十五、网络</h4>
 1、[HYBNetworking]( https://github.com/CoderJackyHuang/HYBNetworking) 标哥的技术博客 基于AFNetworking3.0以上版本封装的网络层。提供常用的GET/POST接口、上传下载图片、文件接口、支持缓存等。[标哥的技术博客](http://www.henishuo.com/base-on-afnetworking3-0-wrapper/)    
 2、[HZExtend] ( https://github.com/GeniusBrother/HZExtend ) MVVM&网络请求，解放VC:基于MVVM的思想，将数据相关的业务逻辑交给到ViewModel处理从而减少控制器的压力，降低代码耦合.  
 
 
-<h4 id = "15">十六、音乐播放</h4>
+<h4 id = "16">十六、音乐播放</h4>
 1、[linjiaMusic](https://github.com/ashen-zhao/linjiaMusic)模仿天天动听音乐，数据也是抓的天天动听  
 
-<h4 id = "16">十七、Socket</h4>
-1、[]( http://www.cocoachina.com/bbs/read.php?tid=125575&fpage=3 )  
-2、[]( http://www.cnblogs.com/worldtraveler/archive/2012/12/22/2829067.html ) AsyncSocket  
+<h4 id = "17">十七、Socket</h4>
+1、[CocoaAsyncSocket学习 ]( http://www.cocoachina.com/bbs/read.php?tid=125575&fpage=3 )   Socket梳理的教程资料等  
+2、[AsyncSocket.h解读]( http://www.cnblogs.com/worldtraveler/archive/2012/12/22/2829067.html ) 关于AsyncSocket的解读博客
 
 
-<h4 id = "17">十八、强大的label</h4>
-1、[LXLabelDemo]( https://github.com/xinge1/LXLabelDemo ) 富文本下划线 字间距 计算宽高 
-![开源中国APP效果图]( http://my.oschina.net/sayhellovip/blog/661372 ) 1.n文字
+<h4 id = "18">十八、强大的label</h4>
+1、[LXLabelDemo]( https://github.com/xinge1/LXLabelDemo ) 富文本下划线 字间距 计算宽高   
+2、[开源中国APP效果图]( http://my.oschina.net/sayhellovip/blog/661372 ) 1.n文字
 
 
-<h4 id = "17">十九、NSDate</h4>
-1、[DateTools] ( http://www.oschina.net/p/datetools ) DateTool 时间处理
+<h4 id = "19">十九、NSDate</h4>
+1、[DateTools](http://www.oschina.net/p/datetools)DateTool 时间处理
 
 
 
-31、[小红点管理]
-![]( http://code.cocoachina.com/view/131175 )
-
-32、[tabbar]
-![](http://code.cocoachina.com/view/131178)
-
-33、[消息列表]
-![](https://github.com/slackhq/SlackTextViewController)
-
-34、[侧滑栏]
-![](https://github.com/erichoracek/MSDynamicsDrawerViewController)
+ 
 
 
------
-[各种demo github整理集合]
-![](http://www.jianshu.com/p/8230ebc4ccef) 动画 hud  swift
+
+-----------
+<h4 id = "20">二十、各种demo github整理集合</h4>
+[各种demo github整理集合](http://www.jianshu.com/p/8230ebc4ccef) 
 
 
-[iOS学习资料库]
-![]( https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md ) 功能控件集合
-![](https://github.com/NunchakusHuang/trip-to-iOS)
-![](https://github.com/numbbbbb/the-swift-programming-language-in-chinese/issues/383)
-![](https://github.com/mengxiangyue/The-Swift-2.0-Programming-Language-playground)
-![](https://github.com/tangqiaoboy/iOSBlogCN  中文博客推荐集合 )
-![](https://github.com/nonstriater/Olla4iOS 方便复用的类和方法 )
-![](https://github.com/ipader/SwiftGuide 汇集所有swift学习资料)
-![](https://github.com/100mango/zen )
-![](https://github.com/bboyfeiyu/iOS-tech-frontier  翻译的开源文章)
-![](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift  翻译小组)
-![](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques  翻译)
-![](https://github.com/oa414/objc-zen-book-cn)
-![](https://github.com/oa414/ios-good-practices/blob/master/TRANSLATION-CN.md   ios最佳实践)
-![](https://github.com/ksm/SwiftInFlux)
+<h4 id = "21">二十一、iOS学习资料库</h4>
+1、[GitHub Top 100 ]( https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md ) 功能控件集合  
+2、[OS 学习资料整理](https://github.com/NunchakusHuang/trip-to-iOS) OS 学习资料整理  
+3、[Swift 2.0 翻译启动](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)  
+4、[playground](https://github.com/mengxiangyue/The-Swift-2.0-Programming-Language-playground)  
+5、[中文 iOS/Mac 开发博客列表](https://github.com/tangqiaoboy/iOSBlogCN  中文博客推荐集合 )中文 iOS/Mac 开发博客列表    
+6、[方便复用的类和方法](https://github.com/nonstriater/Olla4iOS 方便复用的类和方法 )  
+7、[SwiftGuide](https://github.com/ipader/SwiftGuide 汇集所有swift学习资料) 汇集所有swift学习资料  
+8、[iOS 禅](https://github.com/100mango/zen )  
+9、[iOS开发技术前线](https://github.com/bboyfeiyu/iOS-tech-frontier ) 一个定期翻译国外iOS优质的技术、开源库、软件架构设计、测试等文章的开源项目  
+10、[Stanford 公开课、CS193P 课程](https://github.com/x140yu/Developing_iOS_8_Apps_With_Swift  翻译小组) Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译小组  
+11、[iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques  翻译) 翻译  
+12、[ObjC Zen Book 中文翻译](https://github.com/oa414/objc-zen-book-cn)  
+13、[iOS 最佳实践](https://github.com/oa414/ios-good-practices/blob/master/TRANSLATION-CN.md   ios最佳实践) 本文翻译自 futurice 公司的 iOS Good Practices，译文在 Github 上进行维护，同时在 简书 上进行发布。  
+14、[SwiftInFlux](https://github.com/ksm/SwiftInFlux)
