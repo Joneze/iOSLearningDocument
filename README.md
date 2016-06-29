@@ -73,6 +73,7 @@
 13、[iCarousel]( https://github.com/nicklockwood/iCarousel ) 轮播图效果很棒，曾经使用过这个  
 14、[ZYBannerView](https://github.com/zzyspace/ZYBannerView/) 强大的轮播图效果  
 15、[中间放大的轮播图](http://blog.csdn.net/jx1152300755/article/details/51086322 ) 中间cell 放大 基于collectionView
+16、[蜗牛的banner](https://github.com/Joneze/ZHScrollView/) 首页banner
 
 <h4 id = "8">八、分段选择 Segment</h4>
 1、[LGSegment](http://code.cocoachina.com/view/129186) LGSegment简单的分段选择  
