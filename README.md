@@ -63,20 +63,34 @@
 1、[基于AssetsLibrary的照片选取器。](https://github.com/alienjun/AJPhotoPicker) 基于AssetsLibrary的照片选取器。选择器  
 2、[JFImagePicker](https://github.com/johnil/JFImagePickerController) 高性能图片选择器JFImagePicker支持多选、预览已选照片、针对超大图片优化  
 3、[继承图片多选/图片浏览器一体](https://github.com/MakeZL/ZLPhotoLib) 继承图片多选/图片浏览器一体的相册选择  
+<<<<<<< HEAD
 4、[TZImagePickerController](https://github.com/banchichen/TZImagePickerController) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。
  
+>>>>>>> Joneze/master
+=======
+4、[TZImagePickerController](https://github.com/banchichen/TZImagePickerController) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。  
 >>>>>>> Joneze/master
 5、[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) 一个国外coder写的 **图片浏览器**  
 6、[LGPhotoBrowser]( https://github.com/gang544043963/LGPhotoBrowser) 国人写的 模仿微信界面的样式 集成多选和照片浏览器  
 7、[SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser) 依然是国人写的图片浏览器，使用简单 模仿微博图片浏览器动感效果    
 8、[PYPhotosView](https://github.com/iphone5solo/PYPhotosView#pyphotoview) 国人写的一款非常优秀的 **图片浏览器**，支持线型布局，流水布局  
 9、[高仿新浪微博的图片浏览器](http://code.cocoachina.com/view/129193)高仿新浪微博的图片浏览器，极佳的编写方式，易扩展，低耦合  
+<<<<<<< HEAD
 10、[模仿天猫app 相册功能](http://code.cocoachina.com/view/126364) 包含实时获取摄像头信息  
 
 12、[iCarousel]( https://github.com/nicklockwood/iCarousel ) 轮播图效果很棒，曾经使用过这个  
 13、[ZYBannerView](https://github.com/zzyspace/ZYBannerView/) 强大的轮播图效果  
 14、[KDCycleBannerView](https://github.com/kingiol/KDCycleBannerView) 无限滚动图片，轮播图  
 15、[中间放大的轮播图](http://blog.csdn.net/jx1152300755/article/details/51086322 ) 中间cell 放大 基于collectionView
+=======
+10、[KDCycleBannerView](https://github.com/kingiol/KDCycleBannerView) 无限滚动图片，轮播图  
+11、[模仿天猫app 相册功能](http://code.cocoachina.com/view/126364) 包含实时获取摄像头信息    
+12、[图片裁切]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放  
+13、[iCarousel]( https://github.com/nicklockwood/iCarousel ) 轮播图效果很棒，曾经使用过这个  
+14、[ZYBannerView](https://github.com/zzyspace/ZYBannerView/) 强大的轮播图效果  
+15、[中间放大的轮播图](http://blog.csdn.net/jx1152300755/article/details/51086322 ) 中间cell 放大 基于collectionView  
+16、[蜗牛的banner](https://github.com/Joneze/ZHScrollView/) 首页banner
+>>>>>>> Joneze/master
 
 16、[图片裁剪]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放
 17、[UIImage扩展库]( https://github.com/Nyx0uf/NYXImagesKit) UIImage扩展库 包括过滤，模糊，增强，遮蔽，反映，调整大小，旋转，节约。
