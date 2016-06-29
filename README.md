@@ -8,7 +8,7 @@
 4、[各种模仿应用](#4)  
 5、[时间选择器](#5)    
 6、[视频播放](#6)   
-7、[图片浏览器、轮播图](#7)     
+7、[图片相关、图片浏览器、轮播图](#7)     
 8、[分段选择 Segment](#8)  
 9、[表格 tableview](#9)    
 10、[弹窗](#10)    
@@ -55,47 +55,32 @@
 1、[VideoPlyer](http://code.cocoachina.com/view/129475)一个视频播放器   
 2、[ACloudIOSPlayer](https://github.com/ArenaCloud/ACloudIOSPlayer)Arenacloud video player sdk for IOS, 支持手机直播、流媒体点播、直播  
 3、[XLVideoPlayer]( http://www.cocoachina.com/ios/20160414/15922.html)基于AVFoundation自定义的视频播放器  
-4、[AVPlayer]( https://github.com/renzifeng/ZFPlayer) 支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度
-5、[跨平台视频采集、直播SDK]( https://github.com/daniulive/SmarterStreaming) 直播 推流
+4、[AVPlayer]( https://github.com/renzifeng/ZFPlayer) 支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度  
+5、[跨平台视频采集、直播SDK]( https://github.com/daniulive/SmarterStreaming) 直播 推流  
 6、[ RTMP 直播推流 SDK]( https://github.com/pili-engineering/PLCameraStreamingKit) RTMP 直播推流 SDK
 
-<h4 id = "7">七、图片浏览器、轮播图</h4>
+<h4 id = "7">七、图片相关、图片浏览器、轮播图</h4>
 1、[基于AssetsLibrary的照片选取器。](https://github.com/alienjun/AJPhotoPicker) 基于AssetsLibrary的照片选取器。选择器  
 2、[JFImagePicker](https://github.com/johnil/JFImagePickerController) 高性能图片选择器JFImagePicker支持多选、预览已选照片、针对超大图片优化  
 3、[继承图片多选/图片浏览器一体](https://github.com/MakeZL/ZLPhotoLib) 继承图片多选/图片浏览器一体的相册选择  
-<<<<<<< HEAD
-4、[TZImagePickerController](https://github.com/banchichen/TZImagePickerController) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。
- 
->>>>>>> Joneze/master
-=======
 4、[TZImagePickerController](https://github.com/banchichen/TZImagePickerController) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。  
->>>>>>> Joneze/master
 5、[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) 一个国外coder写的 **图片浏览器**  
 6、[LGPhotoBrowser]( https://github.com/gang544043963/LGPhotoBrowser) 国人写的 模仿微信界面的样式 集成多选和照片浏览器  
 7、[SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser) 依然是国人写的图片浏览器，使用简单 模仿微博图片浏览器动感效果    
 8、[PYPhotosView](https://github.com/iphone5solo/PYPhotosView#pyphotoview) 国人写的一款非常优秀的 **图片浏览器**，支持线型布局，流水布局  
 9、[高仿新浪微博的图片浏览器](http://code.cocoachina.com/view/129193)高仿新浪微博的图片浏览器，极佳的编写方式，易扩展，低耦合  
-<<<<<<< HEAD
-10、[模仿天猫app 相册功能](http://code.cocoachina.com/view/126364) 包含实时获取摄像头信息  
-
-12、[iCarousel]( https://github.com/nicklockwood/iCarousel ) 轮播图效果很棒，曾经使用过这个  
-13、[ZYBannerView](https://github.com/zzyspace/ZYBannerView/) 强大的轮播图效果  
-14、[KDCycleBannerView](https://github.com/kingiol/KDCycleBannerView) 无限滚动图片，轮播图  
-15、[中间放大的轮播图](http://blog.csdn.net/jx1152300755/article/details/51086322 ) 中间cell 放大 基于collectionView
-=======
 10、[KDCycleBannerView](https://github.com/kingiol/KDCycleBannerView) 无限滚动图片，轮播图  
 11、[模仿天猫app 相册功能](http://code.cocoachina.com/view/126364) 包含实时获取摄像头信息    
 12、[图片裁切]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放  
 13、[iCarousel]( https://github.com/nicklockwood/iCarousel ) 轮播图效果很棒，曾经使用过这个  
 14、[ZYBannerView](https://github.com/zzyspace/ZYBannerView/) 强大的轮播图效果  
 15、[中间放大的轮播图](http://blog.csdn.net/jx1152300755/article/details/51086322 ) 中间cell 放大 基于collectionView  
-16、[蜗牛的banner](https://github.com/Joneze/ZHScrollView/) 首页banner
->>>>>>> Joneze/master
+16、[蜗牛的banner](https://github.com/Joneze/ZHScrollView/) 首页banner  
+17、[UIImage扩展库]( https://github.com/Nyx0uf/NYXImagesKit) UIImage扩展库 包括过滤，模糊，增强，遮蔽，反映，调整大小，旋转，节约。  
+18、[image模糊]( https://github.com/BradLarson/GPUImage ) image 模糊  过滤  
+19、[view模糊]( https://github.com/nicklockwood/FXBlurView) view的模糊效果  
+20、[图片裁剪]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放
 
-16、[图片裁剪]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放
-17、[UIImage扩展库]( https://github.com/Nyx0uf/NYXImagesKit) UIImage扩展库 包括过滤，模糊，增强，遮蔽，反映，调整大小，旋转，节约。
-18、[image模糊]( https://github.com/BradLarson/GPUImage ) image 模糊  过滤
-19、[view模糊]( https://github.com/nicklockwood/FXBlurView) view的模糊效果
 
 <h4 id = "8">八、分段选择 Segment</h4>
 1、[LGSegment](http://code.cocoachina.com/view/129186) LGSegment简单的分段选择  
@@ -112,7 +97,7 @@
 6、[通过长按手势即可移动cell的tableView](https://github.com/pujiaxin33/JXMovableCellTableView) 长按移动 [相应的简书博客](http://www.jianshu.com/p/ce382f9bc794)  
 7、[左滑多个按钮](http://www.myexception.cn/operating-system/1934244.html )iOS项目开发小技能 (三) -UITableView实现Cell左划删除等自定义功能  
 8、[自定义删除按钮]( http://blog.csdn.net/u010519146/article/details/42882635 ) iOS tableviewcell左划自定义（带图片）删除按钮，点击任意地方取消删除的巧妙实现方法  
-9、[JTGestureBasedTableViewDemo] ( https://github.com/jamztang/JTGestureBasedTableViewDemo ) 右滑删除 左滑完成  
+9、[JTGestureBasedTableViewDemo](https://github.com/jamztang/JTGestureBasedTableViewDemo ) 右滑删除 左滑完成  
 
 <h4 id = "10">十、弹窗</h4>
 1、[MMPopupView](https://github.com/adad184/MMPopupView) 国人写的弹窗，推荐。相应的  [博客教程](http://adad184.com/2015/09/08/opensource-mmpopupview/)   
@@ -159,7 +144,7 @@
 
 <h4 id = "15">十五、网络</h4>
 1、[HYBNetworking]( https://github.com/CoderJackyHuang/HYBNetworking) 标哥的技术博客 基于AFNetworking3.0以上版本封装的网络层。提供常用的GET/POST接口、上传下载图片、文件接口、支持缓存等。[标哥的技术博客](http://www.henishuo.com/base-on-afnetworking3-0-wrapper/)    
-2、[HZExtend] ( https://github.com/GeniusBrother/HZExtend ) MVVM&网络请求，解放VC:基于MVVM的思想，将数据相关的业务逻辑交给到ViewModel处理从而减少控制器的压力，降低代码耦合.  
+2、[HZExtend](https://github.com/GeniusBrother/HZExtend ) MVVM&网络请求，解放VC:基于MVVM的思想，将数据相关的业务逻辑交给到ViewModel处理从而减少控制器的压力，降低代码耦合.  
 
 
 <h4 id = "16">十六、音乐播放</h4>
