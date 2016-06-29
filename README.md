@@ -64,7 +64,8 @@
 2、[JFImagePicker](https://github.com/johnil/JFImagePickerController) 高性能图片选择器JFImagePicker支持多选、预览已选照片、针对超大图片优化  
 3、[继承图片多选/图片浏览器一体](https://github.com/MakeZL/ZLPhotoLib) 继承图片多选/图片浏览器一体的相册选择  
 4、[TZImagePickerController](https://github.com/banchichen/TZImagePickerController) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。
-
+ 
+>>>>>>> Joneze/master
 5、[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) 一个国外coder写的 **图片浏览器**  
 6、[LGPhotoBrowser]( https://github.com/gang544043963/LGPhotoBrowser) 国人写的 模仿微信界面的样式 集成多选和照片浏览器  
 7、[SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser) 依然是国人写的图片浏览器，使用简单 模仿微博图片浏览器动感效果    
@@ -108,9 +109,9 @@
 1、[小红点管理]( http://code.cocoachina.com/view/131175 ) 类似微信新消息小红点，应用场景IM    
 2、[YPTabBarController](https://github.com/yuping1989/YPTabBarController) tabbar 一款可高度自定义的TabBarController，几乎可以自定义所有想自定义的元素。  
 3、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController) 一款可集成于tableview的评论回复UI功能强大  
-4、[MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) 一款优秀的侧滑栏 
+4、[MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) 一款优秀的侧滑栏   
 5、[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) 让导航栏具有全屏右滑滑动返回功能  
-
+6、[YYKit](https://github.com/ibireme/YYKit) **相当强大的一个框架，内容非常丰富，国内大神写的，极力推荐** 内含YYModel、YYCache、YYImage、YYWebImage、YYText、YYKeyboardManager、YYDispatchQueuePool、YYAsyncLayer、YYCategories 强大的功能  
 
 <h4 id = "12">十二、动画、贝塞尔曲线、animation</h4>
 1、[贝塞尔曲线应用](http://code.cocoachina.com/view/129579) 画曲线 可画蓝胖子等 [参考技术博客](http://www.cocoachina.com/ios/20160214/15251.html)  
