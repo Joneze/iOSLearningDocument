@@ -63,9 +63,17 @@
 1、[基于AssetsLibrary的照片选取器。](https://github.com/alienjun/AJPhotoPicker) 基于AssetsLibrary的照片选取器。选择器  
 2、[JFImagePicker](https://github.com/johnil/JFImagePickerController) 高性能图片选择器JFImagePicker支持多选、预览已选照片、针对超大图片优化  
 3、[继承图片多选/图片浏览器一体](https://github.com/MakeZL/ZLPhotoLib) 继承图片多选/图片浏览器一体的相册选择  
+<<<<<<< HEAD
 4、[TZImagePickerController](https://github.com/banchichen/TZImagePickerController) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。
+<<<<<<< Updated upstream
  
 >>>>>>> Joneze/master
+=======
+
+=======
+4、[TZImagePickerController](https://github.com/banchichen/TZImagePickerController) 一个支持多选、选原图和视频的图片选择器，同时有预览功能，适配了iOS6789系统。  
+>>>>>>> master
+>>>>>>> Stashed changes
 5、[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) 一个国外coder写的 **图片浏览器**  
 6、[LGPhotoBrowser]( https://github.com/gang544043963/LGPhotoBrowser) 国人写的 模仿微信界面的样式 集成多选和照片浏览器  
 7、[SDPhotoBrowser](https://github.com/gsdios/SDPhotoBrowser) 依然是国人写的图片浏览器，使用简单 模仿微博图片浏览器动感效果    
@@ -190,3 +198,4 @@
 12、[ObjC Zen Book 中文翻译](https://github.com/oa414/objc-zen-book-cn)  
 13、[iOS 最佳实践](https://github.com/oa414/ios-good-practices/blob/master/TRANSLATION-CN.md   ios最佳实践) 本文翻译自 futurice 公司的 iOS Good Practices，译文在 Github 上进行维护，同时在 简书 上进行发布。  
 14、[SwiftInFlux](https://github.com/ksm/SwiftInFlux)
+15、[大哥 ，我随便测试一下啊](https://www.baidu.com)  百度地址！！
