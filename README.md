@@ -55,7 +55,7 @@
 1、[VideoPlyer](http://code.cocoachina.com/view/129475)一个视频播放器   
 2、[ACloudIOSPlayer](https://github.com/ArenaCloud/ACloudIOSPlayer)Arenacloud video player sdk for IOS, 支持手机直播、流媒体点播、直播  
 3、[XLVideoPlayer]( http://www.cocoachina.com/ios/20160414/15922.html)基于AVFoundation自定义的视频播放器  
-4、[AVPlayer]( https://github.com/renzifeng/ZFPlayer) 支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度  
+4、[AVPlayer (类似今日头条播放器)]( https://github.com/renzifeng/ZFPlayer) 支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度，功能强大   
 5、[跨平台视频采集、直播SDK]( https://github.com/daniulive/SmarterStreaming) 直播 推流  
 6、[ RTMP 直播推流 SDK]( https://github.com/pili-engineering/PLCameraStreamingKit) RTMP 直播推流 SDK
 
@@ -111,6 +111,8 @@
 4、[MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) 一款优秀的侧滑栏   
 5、[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) 让导航栏具有全屏右滑滑动返回功能  
 6、[YYKit](https://github.com/ibireme/YYKit) **相当强大的一个框架，内容非常丰富，国内大神写的，极力推荐** 内含YYModel、YYCache、YYImage、YYWebImage、YYText、YYKeyboardManager、YYDispatchQueuePool、YYAsyncLayer、YYCategories 强大的功能  
+7、[LXLabelDemo](https://github.com/xinge1/LXLabelDemo)一款简单的UILabel扩展。支持修改字间距，行间距，设置关键字，下划线，自动计算高度并返回
+
 
 <h4 id = "12">十二、动画、贝塞尔曲线、animation</h4>
 1、[贝塞尔曲线应用](http://code.cocoachina.com/view/129579) 画曲线 可画蓝胖子等 [参考技术博客](http://www.cocoachina.com/ios/20160214/15251.html)  
@@ -145,7 +147,7 @@
 <h4 id = "15">十五、网络</h4>
 1、[HYBNetworking]( https://github.com/CoderJackyHuang/HYBNetworking) 标哥的技术博客 基于AFNetworking3.0以上版本封装的网络层。提供常用的GET/POST接口、上传下载图片、文件接口、支持缓存等。[标哥的技术博客](http://www.henishuo.com/base-on-afnetworking3-0-wrapper/)    
 2、[HZExtend](https://github.com/GeniusBrother/HZExtend ) MVVM&网络请求，解放VC:基于MVVM的思想，将数据相关的业务逻辑交给到ViewModel处理从而减少控制器的压力，降低代码耦合.  
-
+3、[TYDownloadManager](https://github.com/12207480/TYDownloadManager)  断点下载管理基于NSURLSessionDataTask和NSURLSessionDownloadTask，提供进度更新和状态改变bloc 和 delegate。  
 
 <h4 id = "16">十六、音乐播放</h4>
 1、[linjiaMusic](https://github.com/ashen-zhao/linjiaMusic)模仿天天动听音乐，数据也是抓的天天动听  
