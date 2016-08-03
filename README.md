@@ -47,7 +47,7 @@
 5、[简阅, 源码](https://github.com/guojiubo/PlainReader)
 
 
-<h4 id = "5">五、时间选择器</h4>
+<h4 id = "5">五、选择器</h4>
 1、[时间选择器](https://github.com/HZTonyAng/YTDataSelectDemo)  定位到当前时间的自定义时间选择器  
 2、[UsefulPickerView]( https://github.com/jasnig/UsefulPickerView ) swift版本
 
@@ -87,6 +87,9 @@
 2、[XXXSegmentView](https://github.com/zsy78191/XXXSegmentView) 一款简单的分段选择器  
 3、[DLSlideView](https://github.com/agdsdl/DLSlideView)DLSlideView对常见的顶部Tab页点击、滑动分页做了封装。子视图基于UIViewController而非UIView  
 4、[PagerTab](https://github.com/ming1016/PagerTab)UIScrollView实现滑动转换页面，类似网易云音乐iOS版的页面滑动切换效果  
+5、[MartyJunior](https://github.com/szk-atmosphere/MartyJunior)一款适用于我的页面的segment联动滑动  
+6、[SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)这是一个实现类似半糖、美丽说主页与QQ音乐歌曲列表的控件，实现不同菜单的左右滑动切换  
+  
 
 <h4 id = "9">九、表格 tableview</h4>
 1、[cell单选或者多选删除](http://code.cocoachina.com/view/128706) 点击编辑按钮后，cell单选或者多选删除   
@@ -98,6 +101,7 @@
 7、[左滑多个按钮](http://www.myexception.cn/operating-system/1934244.html )iOS项目开发小技能 (三) -UITableView实现Cell左划删除等自定义功能  
 8、[自定义删除按钮]( http://blog.csdn.net/u010519146/article/details/42882635 ) iOS tableviewcell左划自定义（带图片）删除按钮，点击任意地方取消删除的巧妙实现方法  
 9、[JTGestureBasedTableViewDemo](https://github.com/jamztang/JTGestureBasedTableViewDemo ) 右滑删除 左滑完成  
+10、[城市列表](https://github.com/coderZhou10496/SelectCityDemo) 城市列表
 
 <h4 id = "10">十、弹窗</h4>
 1、[MMPopupView](https://github.com/adad184/MMPopupView) 国人写的弹窗，推荐。相应的  [博客教程](http://adad184.com/2015/09/08/opensource-mmpopupview/)   
@@ -111,8 +115,8 @@
 4、[MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) 一款优秀的侧滑栏   
 5、[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) 让导航栏具有全屏右滑滑动返回功能  
 6、[YYKit](https://github.com/ibireme/YYKit) **相当强大的一个框架，内容非常丰富，国内大神写的，极力推荐** 内含YYModel、YYCache、YYImage、YYWebImage、YYText、YYKeyboardManager、YYDispatchQueuePool、YYAsyncLayer、YYCategories 强大的功能  
-7、[LXLabelDemo](https://github.com/xinge1/LXLabelDemo)一款简单的UILabel扩展。支持修改字间距，行间距，设置关键字，下划线，自动计算高度并返回
-
+7、[LXLabelDemo](https://github.com/xinge1/LXLabelDemo)一款简单的UILabel扩展。支持修改字间距，行间距，设置关键字，下划线，自动计算高度并返回  
+8、[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) 非常强大的一款集成空白页面的库。
 
 <h4 id = "12">十二、动画、贝塞尔曲线、animation</h4>
 1、[贝塞尔曲线应用](http://code.cocoachina.com/view/129579) 画曲线 可画蓝胖子等 [参考技术博客](http://www.cocoachina.com/ios/20160214/15251.html)  
@@ -132,6 +136,7 @@
 10、[GitHub前50名的Objective-C动画相关库](http://www.cocoachina.com/ios/20160602/16574.html) GitHub前50名的Objective-C动画相关库  
 11、[进度条]( https://github.com/ninjinkun/NJKWebViewProgress ) 网易使用--webview的进度条  
 12、[进度条 M13ProgressSuite]( https://github.com/Marxon13/M13ProgressSuite ) 各种进度  
+13、[OpenGL ES魔方应用](https://github.com/yinghuochong/MagicCube) 这是一个魔方，相应的博客[简书博客](http://www.jianshu.com/p/62fc87833ed5)
 
 <h4 id = "13">十三、正则</h4>
 1、[手机，邮箱，身份证号码验证](http://code.cocoachina.com/view/129735) 电话号码 身份证 邮箱验证
@@ -148,6 +153,7 @@
 1、[HYBNetworking]( https://github.com/CoderJackyHuang/HYBNetworking) 标哥的技术博客 基于AFNetworking3.0以上版本封装的网络层。提供常用的GET/POST接口、上传下载图片、文件接口、支持缓存等。[标哥的技术博客](http://www.henishuo.com/base-on-afnetworking3-0-wrapper/)    
 2、[HZExtend](https://github.com/GeniusBrother/HZExtend ) MVVM&网络请求，解放VC:基于MVVM的思想，将数据相关的业务逻辑交给到ViewModel处理从而减少控制器的压力，降低代码耦合.  
 3、[TYDownloadManager](https://github.com/12207480/TYDownloadManager)  断点下载管理基于NSURLSessionDataTask和NSURLSessionDownloadTask，提供进度更新和状态改变bloc 和 delegate。  
+4、[IMYWebView](https://github.com/li6185377/IMYWebView)无缝切换 UIWebView 为 WKWebView 互相兼容
 
 <h4 id = "16">十六、音乐播放</h4>
 1、[linjiaMusic](https://github.com/ashen-zhao/linjiaMusic)模仿天天动听音乐，数据也是抓的天天动听  
@@ -190,4 +196,6 @@
 11、[iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques  翻译) 翻译  
 12、[ObjC Zen Book 中文翻译](https://github.com/oa414/objc-zen-book-cn)  
 13、[iOS 最佳实践](https://github.com/oa414/ios-good-practices/blob/master/TRANSLATION-CN.md   ios最佳实践) 本文翻译自 futurice 公司的 iOS Good Practices，译文在 Github 上进行维护，同时在 简书 上进行发布。  
-14、[SwiftInFlux](https://github.com/ksm/SwiftInFlux)
+14、[SwiftInFlux](https://github.com/ksm/SwiftInFlux)  
+15、[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps#keyboards)美国人收集的开源完整项目  
+16、[awesome-ios](https://github.com/vsouza/awesome-ios)作者同上 这个合集为各种三方库  
