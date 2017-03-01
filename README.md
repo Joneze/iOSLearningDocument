@@ -79,8 +79,10 @@
 17、[UIImage扩展库]( https://github.com/Nyx0uf/NYXImagesKit) UIImage扩展库 包括过滤，模糊，增强，遮蔽，反映，调整大小，旋转，节约。  
 18、[image模糊]( https://github.com/BradLarson/GPUImage ) image 模糊  过滤  
 19、[view模糊]( https://github.com/nicklockwood/FXBlurView) view的模糊效果  
-20、[图片裁剪]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放
-
+20、[图片裁剪]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放  
+21、[图片选择器](https://github.com/yahoo/YangMingShan) 可定制各种颜色。应用场景 朋友圈 微博 等社交  
+22、[YRCoverFlowLayout](https://github.com/solomidSF/YRCoverFlowLayout)卡片式轮播图 可参考英雄联盟的皮肤 [类似的教程博客](http://blog.csdn.net/deft_mkjing/article/details/52217511)  
+23、[仿开眼app列表效果](https://github.com/juvham/kaiyan)仿开眼app列表效果 ， 增加了 寺库的 视差效果
 
 <h4 id = "8">八、分段选择 Segment</h4>
 1、[LGSegment](http://code.cocoachina.com/view/129186) LGSegment简单的分段选择  
@@ -116,7 +118,8 @@
 5、[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) 让导航栏具有全屏右滑滑动返回功能  
 6、[YYKit](https://github.com/ibireme/YYKit) **相当强大的一个框架，内容非常丰富，国内大神写的，极力推荐** 内含YYModel、YYCache、YYImage、YYWebImage、YYText、YYKeyboardManager、YYDispatchQueuePool、YYAsyncLayer、YYCategories 强大的功能  
 7、[LXLabelDemo](https://github.com/xinge1/LXLabelDemo)一款简单的UILabel扩展。支持修改字间距，行间距，设置关键字，下划线，自动计算高度并返回  
-8、[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) 非常强大的一款集成空白页面的库。
+8、[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) 非常强大的一款集成空白页面的库。  
+9、[VHBoomMenuButton](https://github.com/Nightonke/VHBoomMenuButton) 一款炫酷的button  
 
 <h4 id = "12">十二、动画、贝塞尔曲线、animation</h4>
 1、[贝塞尔曲线应用](http://code.cocoachina.com/view/129579) 画曲线 可画蓝胖子等 [参考技术博客](http://www.cocoachina.com/ios/20160214/15251.html)  
