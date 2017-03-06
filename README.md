@@ -168,8 +168,8 @@
 
 <h4 id = "18">十八、强大的label、富文本</h4>
 1、[LXLabelDemo]( https://github.com/xinge1/LXLabelDemo ) 富文本下划线 字间距 计算宽高   
-2、[开源中国APP效果图]( http://my.oschina.net/sayhellovip/blog/661372 ) 1.n文字
-3、[Gallop](https://github.com/waynezxcv/Gallop) 非常强大的一个富文本库，可解析html成原生界面、如丝般顺滑的微信朋友圈（点赞，评论，图文混排表情。Gallop是使用异步绘制的富文本、图文混排框架。它封装了CoreText的富文本功能和常用的图片处理功能。
+2、[开源中国APP效果图]( http://my.oschina.net/sayhellovip/blog/661372 ) 1.n文字  
+3、[Gallop](https://github.com/waynezxcv/Gallop) 非常强大的一个富文本库，可解析html成原生界面、如丝般顺滑的微信朋友圈（点赞，评论，图文混排表情。Gallop是使用异步绘制的富文本、图文混排框架。它封装了CoreText的富文本功能和常用的图片处理功能。  
 
 <h4 id = "19">十九、NSDate</h4>
 1、[DateTools](http://www.oschina.net/p/datetools)DateTool 时间处理
