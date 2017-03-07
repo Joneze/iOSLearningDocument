@@ -20,7 +20,9 @@
 16、[音乐播放](#16)    
 17、[Socket](#17)   
 18、[强大的 label、富文本](#18)   
-19、[NSDate](#19)
+19、[NSDate](#19)  
+20、[各种demo github整理集合](#20)  
+21、[iOS学习资料库](#21)  
 
 <h3 id = "1">一、AutoLayout 自动布局</h3>
 1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry ) Masonry 的一个简单的应用demo  
@@ -103,7 +105,8 @@
 7、[左滑多个按钮](http://www.myexception.cn/operating-system/1934244.html )iOS项目开发小技能 (三) -UITableView实现Cell左划删除等自定义功能  
 8、[自定义删除按钮]( http://blog.csdn.net/u010519146/article/details/42882635 ) iOS tableviewcell左划自定义（带图片）删除按钮，点击任意地方取消删除的巧妙实现方法  
 9、[JTGestureBasedTableViewDemo](https://github.com/jamztang/JTGestureBasedTableViewDemo ) 右滑删除 左滑完成  
-10、[城市列表](https://github.com/coderZhou10496/SelectCityDemo) 城市列表
+10、[城市列表](https://github.com/coderZhou10496/SelectCityDemo) 城市列表  
+11、[folding-cell](https://github.com/Ramotion/folding-cell) 很炫酷的一款自定义cell，swift语言编写。  
 
 <h4 id = "10">十、弹窗</h4>
 1、[MMPopupView](https://github.com/adad184/MMPopupView) 国人写的弹窗，推荐。相应的  [博客教程](http://adad184.com/2015/09/08/opensource-mmpopupview/)   
