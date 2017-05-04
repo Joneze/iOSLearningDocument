@@ -112,9 +112,10 @@
 1、[MMPopupView](https://github.com/adad184/MMPopupView) 国人写的弹窗，推荐。相应的  [博客教程](http://adad184.com/2015/09/08/opensource-mmpopupview/)   
 2、[HySideScrollingImagePicker](https://github.com/wwdc14/HySideScrollingImagePicker)模仿QQ选择照片  
 3、[Harpy](https://github.com/ArtSabintsev/Harpy) 可自定义弹窗、版本检测更新  
+4、[SnailPopupController](https://github.com/snail-z/SnailPopupController) 强大的弹窗 快速弹出自定义视图，支持自定义蒙版样式/过渡效果/手势拖动等
 
 <h4 id = "11">十一、优秀的功能模块集合</h4>
-1、[小红点管理]( http://code.cocoachina.com/view/131175 ) 类似微信新消息小红点，应用场景IM    
+1、[小红点管理]( https://github.com/GJGroup/GJRedDot ) 类似微信新消息小红点，应用场景IM    
 2、[YPTabBarController](https://github.com/yuping1989/YPTabBarController) tabbar 一款可高度自定义的TabBarController，几乎可以自定义所有想自定义的元素。  
 3、[SlackTextViewController](https://github.com/slackhq/SlackTextViewController) 一款可集成于tableview的评论回复UI功能强大  
 4、[MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) 一款优秀的侧滑栏   
@@ -123,6 +124,7 @@
 7、[LXLabelDemo](https://github.com/xinge1/LXLabelDemo)一款简单的UILabel扩展。支持修改字间距，行间距，设置关键字，下划线，自动计算高度并返回  
 8、[DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) 非常强大的一款集成空白页面的库。  
 9、[VHBoomMenuButton](https://github.com/Nightonke/VHBoomMenuButton) 一款炫酷的button  
+10、[FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) 一款全屏右滑的导航栏 比较强大  
 
 <h4 id = "12">十二、动画、贝塞尔曲线、animation</h4>
 1、[贝塞尔曲线应用](http://code.cocoachina.com/view/129579) 画曲线 可画蓝胖子等 [参考技术博客](http://www.cocoachina.com/ios/20160214/15251.html)  
@@ -142,7 +144,8 @@
 10、[GitHub前50名的Objective-C动画相关库](http://www.cocoachina.com/ios/20160602/16574.html) GitHub前50名的Objective-C动画相关库  
 11、[进度条]( https://github.com/ninjinkun/NJKWebViewProgress ) 网易使用--webview的进度条  
 12、[进度条 M13ProgressSuite]( https://github.com/Marxon13/M13ProgressSuite ) 各种进度  
-13、[OpenGL ES魔方应用](https://github.com/yinghuochong/MagicCube) 这是一个魔方，相应的博客[简书博客](http://www.jianshu.com/p/62fc87833ed5)
+13、[OpenGL ES魔方应用](https://github.com/yinghuochong/MagicCube) 这是一个魔方，相应的博客[简书博客](http://www.jianshu.com/p/62fc87833ed5)  
+14、[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo) 这是一个动画合集，阿里巴巴大神写的。
 
 <h4 id = "13">十三、正则</h4>
 1、[手机，邮箱，身份证号码验证](http://code.cocoachina.com/view/129735) 电话号码 身份证 邮箱验证
