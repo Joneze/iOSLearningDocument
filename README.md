@@ -84,7 +84,8 @@
 20、[图片裁剪]( http://code.cocoachina.com/view/129227) 自定义大小图片裁剪 图片可缩放  
 21、[图片选择器](https://github.com/yahoo/YangMingShan) 可定制各种颜色。应用场景 朋友圈 微博 等社交  
 22、[YRCoverFlowLayout](https://github.com/solomidSF/YRCoverFlowLayout)卡片式轮播图 可参考英雄联盟的皮肤 [类似的教程博客](http://blog.csdn.net/deft_mkjing/article/details/52217511)  
-23、[仿开眼app列表效果](https://github.com/juvham/kaiyan)仿开眼app列表效果 ， 增加了 寺库的 视差效果
+23、[仿开眼app列表效果](https://github.com/juvham/kaiyan)仿开眼app列表效果 ， 增加了 寺库的 视差效果  
+24、[Onboard](https://github.com/mamaral/Onboard) 一款非常棒的新版本banner介绍控件
 
 <h4 id = "8">八、分段选择 Segment</h4>
 1、[LGSegment](http://code.cocoachina.com/view/129186) LGSegment简单的分段选择  
@@ -107,6 +108,7 @@
 9、[JTGestureBasedTableViewDemo](https://github.com/jamztang/JTGestureBasedTableViewDemo ) 右滑删除 左滑完成  
 10、[城市列表](https://github.com/coderZhou10496/SelectCityDemo) 城市列表  
 11、[folding-cell](https://github.com/Ramotion/folding-cell) 很炫酷的一款自定义cell，swift语言编写。  
+12、[RATreeView](https://github.com/Augustyniak/RATreeView)  可以无限折叠的cell 类似qq好友界面  
 
 <h4 id = "10">十、弹窗</h4>
 1、[MMPopupView](https://github.com/adad184/MMPopupView) 国人写的弹窗，推荐。相应的  [博客教程](http://adad184.com/2015/09/08/opensource-mmpopupview/)   
@@ -208,3 +210,5 @@
 14、[SwiftInFlux](https://github.com/ksm/SwiftInFlux)  
 15、[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps#keyboards)美国人收集的开源完整项目  
 16、[awesome-ios](https://github.com/vsouza/awesome-ios)作者同上 这个合集为各种三方库  
+
+
