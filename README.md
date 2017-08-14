@@ -94,6 +94,7 @@
 4、[PagerTab](https://github.com/ming1016/PagerTab)UIScrollView实现滑动转换页面，类似网易云音乐iOS版的页面滑动切换效果  
 5、[MartyJunior](https://github.com/szk-atmosphere/MartyJunior)一款适用于我的页面的segment联动滑动  
 6、[SwipeTableView](https://github.com/Roylee-ML/SwipeTableView)这是一个实现类似半糖、美丽说主页与QQ音乐歌曲列表的控件，实现不同菜单的左右滑动切换  
+7、[WMPageController](https://github.com/wangmchn/WMPageController) 也是左右切换视图  
   
 
 <h4 id = "9">九、表格 tableview</h4>
