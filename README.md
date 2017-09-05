@@ -211,5 +211,6 @@
 14、[SwiftInFlux](https://github.com/ksm/SwiftInFlux)  
 15、[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps#keyboards)美国人收集的开源完整项目  
 16、[awesome-ios](https://github.com/vsouza/awesome-ios)作者同上 这个合集为各种三方库  
+17、[牛B的微信插件](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)MacOS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开  
 
 
