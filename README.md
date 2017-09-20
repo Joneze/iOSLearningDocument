@@ -59,7 +59,8 @@
 3、[XLVideoPlayer]( http://www.cocoachina.com/ios/20160414/15922.html)基于AVFoundation自定义的视频播放器  
 4、[AVPlayer (类似今日头条播放器)]( https://github.com/renzifeng/ZFPlayer) 支持横屏、竖屏（全屏播放还可锁定屏幕方向），上下滑动调节音量、屏幕亮度，左右滑动调节播放进度，功能强大   
 5、[跨平台视频采集、直播SDK]( https://github.com/daniulive/SmarterStreaming) 直播 推流  
-6、[ RTMP 直播推流 SDK]( https://github.com/pili-engineering/PLCameraStreamingKit) RTMP 直播推流 SDK
+6、[ RTMP 直播推流 SDK]( https://github.com/pili-engineering/PLCameraStreamingKit) RTMP 直播推流 SDK     
+7、[MMPlayerView](https://github.com/MillmanY/MMPlayerView)  Custom AVPlayerLayer on view and transition player with good effect like youtube and facebook 基于AVPlayerLayer 播放器，类似youtube Facebook              
 
 <h4 id = "7">七、图片相关、图片浏览器、轮播图</h4>
 1、[基于AssetsLibrary的照片选取器。](https://github.com/alienjun/AJPhotoPicker) 基于AssetsLibrary的照片选取器。选择器  
@@ -109,7 +110,8 @@
 9、[JTGestureBasedTableViewDemo](https://github.com/jamztang/JTGestureBasedTableViewDemo ) 右滑删除 左滑完成  
 10、[城市列表](https://github.com/coderZhou10496/SelectCityDemo) 城市列表  
 11、[folding-cell](https://github.com/Ramotion/folding-cell) 很炫酷的一款自定义cell，swift语言编写。  
-12、[RATreeView](https://github.com/Augustyniak/RATreeView)  可以无限折叠的cell 类似qq好友界面  
+12、[RATreeView](https://github.com/Augustyniak/RATreeView)  可以无限折叠的cell 类似qq好友界面   
+13、[TableViewAnimationKit](https://github.com/alanwangmodify/TableViewAnimationKit) 一款cell的动画demo      
 
 <h4 id = "10">十、弹窗</h4>
 1、[MMPopupView](https://github.com/adad184/MMPopupView) 国人写的弹窗，推荐。相应的  [博客教程](http://adad184.com/2015/09/08/opensource-mmpopupview/)   
@@ -211,6 +213,6 @@
 14、[SwiftInFlux](https://github.com/ksm/SwiftInFlux)  
 15、[open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps#keyboards)美国人收集的开源完整项目  
 16、[awesome-ios](https://github.com/vsouza/awesome-ios)作者同上 这个合集为各种三方库  
-17、[牛B的微信插件](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)MacOS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开  
-
+17、[牛B的微信插件](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)MacOS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开    
+18、[EFResume](https://github.com/EyreFree/EFResume)饿了么大神简历模板，swift 语言编写
 
