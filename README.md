@@ -23,6 +23,7 @@
 19、[NSDate](#19)  
 20、[各种demo github整理集合](#20)  
 21、[iOS学习资料库](#21)  
+22、[swift 工具类](#22)
 
 <h3 id = "1">一、AutoLayout 自动布局</h3>
 1、[Autolayout Example With Masonry](https://github.com/zekunyan/AutolayoutExampleWithMasonry ) Masonry 的一个简单的应用demo  
@@ -217,4 +218,8 @@
 16、[awesome-ios](https://github.com/vsouza/awesome-ios)作者同上 这个合集为各种三方库  
 17、[牛B的微信插件](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)MacOS版微信小助手 功能: 自动回复、消息防撤回、远程控制、微信多开    
 18、[EFResume](https://github.com/EyreFree/EFResume)饿了么大神简历模板，swift 语言编写
+
+<h4 id = "22">二十二、swift工具类</h4>
+1、[json转model py工具类](https://github.com/banxi1988/iOSCodeGenerator) 利用Python包装的一个工具类，直接把json数据转换成model解析，集成在services工具类里面。
+
 
