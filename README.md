@@ -62,6 +62,8 @@
 5、[跨平台视频采集、直播SDK]( https://github.com/daniulive/SmarterStreaming) 直播 推流  
 6、[ RTMP 直播推流 SDK]( https://github.com/pili-engineering/PLCameraStreamingKit) RTMP 直播推流 SDK     
 7、[MMPlayerView](https://github.com/MillmanY/MMPlayerView)  Custom AVPlayerLayer on view and transition player with good effect like youtube and facebook 基于AVPlayerLayer 播放器，类似youtube Facebook              
+8、[JPVideoPlayer](https://github.com/newyjp/JPVideoPlayer)  自动播放视频仿抖音播放器    [使用操作手册](https://www.jianshu.com/p/282e3e0cfe78)  
+
 
 <h4 id = "7">七、图片相关、图片浏览器、轮播图</h4>
 1、[基于AssetsLibrary的照片选取器。](https://github.com/alienjun/AJPhotoPicker) 基于AssetsLibrary的照片选取器。选择器  
@@ -151,7 +153,9 @@
 11、[进度条]( https://github.com/ninjinkun/NJKWebViewProgress ) 网易使用--webview的进度条  
 12、[进度条 M13ProgressSuite]( https://github.com/Marxon13/M13ProgressSuite ) 各种进度  
 13、[OpenGL ES魔方应用](https://github.com/yinghuochong/MagicCube) 这是一个魔方，相应的博客[简书博客](http://www.jianshu.com/p/62fc87833ed5)  
-14、[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo) 这是一个动画合集，阿里巴巴大神写的。
+14、[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo) 这是一个动画合集，阿里巴巴大神写的。  
+13、[HHTransition](https://github.com/yuwind/HHTransition)多款炫酷转场动画  
+
 
 <h4 id = "13">十三、正则</h4>
 1、[手机，邮箱，身份证号码验证](http://code.cocoachina.com/view/129735) 电话号码 身份证 邮箱验证
