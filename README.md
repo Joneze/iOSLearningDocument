@@ -154,7 +154,8 @@
 12、[进度条 M13ProgressSuite]( https://github.com/Marxon13/M13ProgressSuite ) 各种进度  
 13、[OpenGL ES魔方应用](https://github.com/yinghuochong/MagicCube) 这是一个魔方，相应的博客[简书博客](http://www.jianshu.com/p/62fc87833ed5)  
 14、[IOSAnimationDemo](https://github.com/yixiangboy/IOSAnimationDemo) 这是一个动画合集，阿里巴巴大神写的。  
-13、[HHTransition](https://github.com/yuwind/HHTransition)多款炫酷转场动画  
+15、[HHTransition](https://github.com/yuwind/HHTransition)多款炫酷转场动画  
+16、[lottie-ios](https://github.com/airbnb/lottie-ios)极其优秀的一款开源动画库，可做各种动画效果  
 
 
 <h4 id = "13">十三、正则</h4>
